@@ -1,0 +1,17 @@
+/DemoQa/driver/chromedriver.exe
+
+/DemoQa/TestCases/try.py
+/DemoQa/TestCases/try2.py
+/DemoQa/TestCases/try3.py
+/DemoQa/TestCases/try4.py
+/DemoQa/TestCases/try5.py
+/DemoQa/TestCases/try6.py
+/DemoQa/TestCases/try7.py
+/DemoQa/TestCases/try8.py
+/DemoQa/TestCases/run_backup.py
+/DemoQa/TestCases/report.html
+/DemoQa/TestCases/excel_based_framework_Backup.py
+/DemoQa/TestCases/~$TestSheet.xlsx
+/DemoQa/TestCases/assets/
+/.pytest_cache/
+/DemoQa/TestCases/.pytest_cache/
